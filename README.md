@@ -10,7 +10,7 @@
  <color name="black">#99000000</color> <!-- 99 is for alpha and others pairs zero's are for R G B -->
 ```
 
-3 - Listado de porcentages
+3 - Listado de porcentajes
 ```
 100% — FF
 95% — F2
